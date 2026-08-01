@@ -71,7 +71,13 @@
   <!-- <img src="https://cdn.simpleicons.org/langchain" height="60" alt="LangChain logo" /> -->
   <img src="assets/langchain-color.png" height="60" alt="LangChain logo" />
   <img width="12" />
-  <img src="huggingface-icon.png" height="60" alt="huggingface logo"  />
+  <img src="assets/huggingface-icon.png" height="60" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="assets/mcp.webp" height="60" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="assets/crewai-color.png" height="60" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="assets/ollama.webp" height="60" alt="huggingface logo"  />
 </div>
 
 ###
