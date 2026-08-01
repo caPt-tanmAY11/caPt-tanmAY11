@@ -34,16 +34,6 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/tanmay-vishwakarma-a1363a2a8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">🧠 AI / LLM Engineering</h2>
 
 ###
