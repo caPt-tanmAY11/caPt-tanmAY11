@@ -52,7 +52,7 @@
       <img src="assets/coder.gif" alt="Coder animation" width="300">
     </td>
     <td>
-      <img src="assets/mid-thought.png" alt="Thought" width="400">
+      <img src="assets/my-thought.png" alt="Thought" width="400">
     </td>
   </tr>
 </table>
