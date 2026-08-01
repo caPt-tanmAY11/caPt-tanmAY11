@@ -15,7 +15,7 @@
   <img
     src="assets/hii.gif"
     alt="Hi"
-    width="50"
+    width="150"
     style="vertical-align: middle;"
   />
 </h1>
