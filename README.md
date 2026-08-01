@@ -38,15 +38,22 @@
 
 ###
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/mid-thought.png" alt="Banner" width="100%">
-</p>
+</p> -->
 
-###
-
-<p align="center">
+<!-- <p align="center">
   <img src="assets/coder.gif" alt="Banner" width="200">
-</p>
+</p> -->
+
+<div align="center">
+  <p align="center">
+    <img src="assets/coder.gif" alt="Banner" width="300">
+  </p>
+  <p align="center">
+    <img src="assets/mid-thought.png" alt="Banner" width="100%">
+  </p>
+</div>
 
 ###
 
