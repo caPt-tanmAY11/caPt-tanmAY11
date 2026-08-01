@@ -120,6 +120,12 @@
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="assets/jwt.png" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="assets/better-auth-logo.png" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="assets/figma-icon.webp" height="60" alt="express logo"  />
 </div>
 
 ###
