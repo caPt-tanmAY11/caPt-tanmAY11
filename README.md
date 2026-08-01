@@ -159,13 +159,13 @@
 
 ###
 
-<p align="center">
+<h2 align="center">
   <b>LLMs</b> |
   <b>AI Agents</b> |
   <b>System Design</b> |
   <b>Cloud</b> |
   <b>DevOps</b>
-</p>
+</h2>
 
 ###
 
