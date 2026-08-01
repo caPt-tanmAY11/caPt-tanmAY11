@@ -42,6 +42,11 @@
   <img src="assets/mid-thought.png" alt="Banner" width="100%">
 </p>
 
+###
+
+<p align="center">
+  <img src="assets/coder.gif" alt="Banner" width="200">
+</p>
 
 ###
 
