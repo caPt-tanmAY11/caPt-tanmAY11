@@ -14,6 +14,12 @@
 
 ###
 
+<p align="center">
+  <img src="assets/hii.gif" alt="hii animation" width="500">
+</p>
+
+###
+
 <h3 data-importer="text" align="center">Building intelligent systems by combining AI, software engineering, and modern infrastructure 🚀</h3>
 
 ###
