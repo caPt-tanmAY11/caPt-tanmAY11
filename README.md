@@ -159,7 +159,13 @@
 
 ###
 
-<h3 data-importer="text" align="center">LLMs | AI Agents | System Design | Cloud | DevOps</h3>
+<p align="center">
+  <b>LLMs</b> |
+  <b>AI Agents</b> |
+  <b>System Design</b> |
+  <b>Cloud</b> |
+  <b>DevOps</b>
+</p>
 
 ###
 
