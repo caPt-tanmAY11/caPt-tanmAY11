@@ -46,14 +46,16 @@
   <img src="assets/coder.gif" alt="Banner" width="200">
 </p> -->
 
-<div align="center">
-  <p align="center">
-    <img src="assets/coder.gif" alt="Banner" width="300">
-  </p>
-  <p align="center">
-    <img src="assets/mid-thought.png" alt="Banner" width="100%">
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="assets/coder.gif" alt="Coder animation" width="300">
+    </td>
+    <td>
+      <img src="assets/mid-thought.png" alt="Thought" width="400">
+    </td>
+  </tr>
+</table>
 
 ###
 
