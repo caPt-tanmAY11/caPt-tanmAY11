@@ -15,7 +15,7 @@
 ###
 
 <p align="center">
-  <img src="assets/hii.gif" alt="hii animation" width="500">
+  <img src="assets/hii.gif" alt="hii animation" width="200">
 </p>
 
 ###
