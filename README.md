@@ -67,8 +67,9 @@
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="60" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
-  <img src="https://cdn.simpleicons.org/langchain" height="60" alt="LangChain logo" />
   <img width="12" />
+  <!-- <img src="https://cdn.simpleicons.org/langchain" height="60" alt="LangChain logo" /> -->
+  <img src="assets/langchain-color.png" height="60" alt="LangChain logo" />
 </div>
 
 ###
