@@ -70,6 +70,8 @@
   <img width="12" />
   <!-- <img src="https://cdn.simpleicons.org/langchain" height="60" alt="LangChain logo" /> -->
   <img src="assets/langchain-color.png" height="60" alt="LangChain logo" />
+  <img width="12" />
+  <img src="huggingface-icon.png" height="60" alt="huggingface logo"  />
 </div>
 
 ###
