@@ -10,13 +10,15 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey, I'm Tanmay Vishwakarma</h1>
-
-###
-
-<p align="center">
-  <img src="assets/hii.gif" alt="hii animation" width="200">
-</p>
+<h1 align="center">
+  Hey, I'm Tanmay Vishwakarma
+  <img
+    src="assets/hii.gif"
+    alt="Hi"
+    width="50"
+    style="vertical-align: middle;"
+  />
+</h1>
 
 ###
 
