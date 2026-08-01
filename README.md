@@ -30,7 +30,10 @@
 
 ###
 
-<h3 data-importer="text" align="center">I believe in learning by building and sharing knowledge along the way.</h3>
+<p align="center">
+  <img src="assets/mid-thought.png" alt="Banner" width="100%">
+</p>
+
 
 ###
 
