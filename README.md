@@ -78,6 +78,8 @@
   <img src="assets/crewai-color.png" height="60" alt="huggingface logo"  />
   <img width="12" />
   <img src="assets/ollama.webp" height="60" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="assets/pinecone.png" height="60" alt="huggingface logo"  />
 </div>
 
 ###
